@@ -32,3 +32,6 @@ Carpetas con la información de cada participante.
 5. Crear Pull Request
 6. Revisar cambios
 7. Hacer merge
+
+## Integrantes del grupo
+
